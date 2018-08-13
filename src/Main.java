@@ -12,7 +12,7 @@ public class Main {
         int i = 0;
         int sum = 0;
         Integer number = 0;
-        while (i < 5){
+        while (i < 10){
 
             number = scan.nextInt();
             i++;
